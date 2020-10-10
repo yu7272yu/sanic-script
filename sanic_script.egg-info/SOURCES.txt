@@ -1,0 +1,9 @@
+setup.py
+sanic_script/__init__.py
+sanic_script/cli.py
+sanic_script/commands.py
+sanic_script.egg-info/PKG-INFO
+sanic_script.egg-info/SOURCES.txt
+sanic_script.egg-info/dependency_links.txt
+sanic_script.egg-info/requires.txt
+sanic_script.egg-info/top_level.txt
