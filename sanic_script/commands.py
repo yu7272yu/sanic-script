@@ -243,7 +243,7 @@ class Shell(Command):
         """
         Returns a dict of context variables added to the shell namespace.
         """
-        return
+        return self.make_context()
 
     def run(self, no_ipython):
         """
